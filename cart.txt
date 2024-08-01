@@ -1,0 +1,6 @@
+[objects]
+BUILD\cart.o
+[libraries]
+[header]
+[footer]
+[definitions]
